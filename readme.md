@@ -28,9 +28,9 @@
 
 ## Install
 
-All instructions can be found at [INSTALL.md](./INSTALL.md).
+All instructions can be found at [INSTALL.md](./install.md).
 
 
 ## License
 
-[MIT License](./LICENSE.md)
+[MIT License](./license.md)
