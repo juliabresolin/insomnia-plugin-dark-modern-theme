@@ -1,0 +1,33 @@
+{
+  "name": "insomnia-plugin-dark-modern-theme",
+  "version": "1.0.0",
+  "description": "A dark theme based on Visual Studio Code Dark Theme Modern.",
+  "insomnia": {
+    "name": "dark-modern-theme",
+    "displayName": "Dark Modern",
+    "description": "A dark theme based on Visual Studio Code Dark Theme Modern",
+    "images": {
+      "icon": "logo.png"
+    }
+  },
+  "main": "index.js",
+  "keywords": [
+    "theme",
+    "dark",
+    "insomnia",
+    "insomnia-theme",
+    "insomnia-plugin",
+    "color-theme",
+    "dark-modern",
+    "vscode-theme"
+  ],
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "author": "Julia Bresolin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
