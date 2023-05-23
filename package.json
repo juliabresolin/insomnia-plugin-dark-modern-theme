@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-dark-modern-theme",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A dark theme based on Visual Studio Code Dark Theme Modern.",
   "insomnia": {
     "name": "dark-modern-theme",
@@ -28,6 +28,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/juliabresolin/insomnia-plugin-dark-modern-theme"
   }
 }

@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./logo.png" alt="Dark Modern Logo" width="80">
+  <img src="https://raw.githubusercontent.com/juliabresolin/insomnia-plugin-dark-modern-theme/main/logo.png" alt="Dark Modern Logo" width="80">
   <br>
   <br>
   Dark Modern for <a href="https://insomnia.rest">Insomnia</a>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Dark Modern screnshoot for Insomnia" src="./screenshot.png">
+  <img alt="Dark Modern screnshoot for Insomnia" src="https://raw.githubusercontent.com/juliabresolin/insomnia-plugin-dark-modern-theme/main/screenshot.png">
 </p>
 
 ## Install
